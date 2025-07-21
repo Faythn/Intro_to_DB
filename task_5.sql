@@ -1,3 +1,4 @@
+
 -- File: task_5.sql
 
 INSERT INTO CUSTOMERS (customer_id, customer_name, email, address)
